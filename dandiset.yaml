@@ -7,9 +7,29 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach:
+  - name: electrophysiological approach
+    schemaKey: ApproachType
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique:
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  - name: spike sorting technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 13784384
+  numberOfFiles: 13
+  numberOfSubjects: 2
   schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10116
+    name: Rattus norvegicus - Norway rat
+    schemaKey: SpeciesType
+  variableMeasured:
+  - ElectrodeGroup
+  - Units
 citation: Gao, Huan; He, Bin; Yu, Kai; Ramachandran, Sandhya (2024) Neural Spike Time
   Response recorded by NET Probe Soft Electrode in the Primary Somatosensory Cortex
   with Phased Ultrasound Array Stimulation (Version draft) [Data set]. DANDI archive.
