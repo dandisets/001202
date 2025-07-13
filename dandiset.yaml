@@ -31,9 +31,9 @@ assetsSummary:
   variableMeasured:
   - ElectrodeGroup
   - Units
-citation: Gao, Huan; He, Bin; Yu, Kai; Ramachandran, Sandhya (2024) Neural Spike Time
+citation: Gao, Huan; Ramachandran, Sandhya; Yu, Kai; He, Bin (2025) Neural Spike Time
   Response recorded by NET Probe Soft Electrode in the Primary Somatosensory Cortex
-  with Phased Ultrasound Array Stimulation (Version draft) [Data set]. DANDI archive.
+  with Phased Ultrasound Array Stimulation (Version draft) [Data set]. DANDI Archive.
   https://dandiarchive.org/dandiset/001202/draft
 contributor:
 - affiliation: []
@@ -44,7 +44,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 - includeInCitation: true
-  name: He, Bin
+  name: Ramachandran, Sandhya
   roleName:
   - dcite:Author
   schemaKey: Person
@@ -54,7 +54,7 @@ contributor:
   - dcite:Author
   schemaKey: Person
 - includeInCitation: true
-  name: Ramachandran, Sandhya
+  name: He, Bin
   roleName:
   - dcite:Author
   schemaKey: Person
@@ -95,19 +95,16 @@ description: In this study, we investigate the neuronal response to transcranial
 ethicsApproval: []
 id: DANDI:001202/draft
 identifier: DANDI:001202
-keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001202/versions/draft/assets/
 name: Neural Spike Time Response recorded by NET Probe Soft Electrode in the Primary
   Somatosensory Cortex with Phased Ultrasound Array Stimulation
-protocol: []
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.8
-studyTarget: []
 url: https://dandiarchive.org/dandiset/001202/draft
 version: draft
 wasGeneratedBy: []
